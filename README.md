@@ -1,3 +1,3 @@
-# achmea-declaratie-tool-
+# achmea-declaratie-tool
 
 readme gewijzigd 
